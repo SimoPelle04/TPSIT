@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636718308 source:c:\users\utente\desktop\scuola\quarta\tpsit\es009\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636718308 source:c:\users\utente\desktop\scuola\quarta\tpsit\es009lab\main.c
+	<stdio.h>
+	<stdlib.h>
+

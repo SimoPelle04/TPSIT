@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634884175 source:c:\users\utente\desktop\scuola\quarta\tpsit\es05lab\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635430872 source:c:\users\utente\desktop\scuola\quarta\tpsit\es005lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
